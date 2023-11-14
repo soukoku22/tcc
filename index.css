@@ -47,12 +47,6 @@ header ul li a {
     text-decoration: none;
 }
 
-header ul li a .txt-link{
-    position: absolute;
-    margin-top: 20px;
-    display: inline-block;
-}
-
 header ul li a .icon > i{
     font-size: 35px;
     margin-left: 4px;
@@ -60,7 +54,7 @@ header ul li a .icon > i{
 }
 
 .btn-suporte button {
-    width: 120px;
+    width: 200px;
     height: 40px;
     border-radius: 1rem;
     background-color: #985BC6;
